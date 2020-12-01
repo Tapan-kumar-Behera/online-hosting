@@ -1,0 +1,123 @@
+@media (min-width: 992px) {
+    .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+        float: left;
+    }
+    .col-lg-1 {
+        width: 8.33%;
+    }
+    .col-lg-2 {
+        width: 16.66%;
+    }
+    .col-lg-3 {
+        width: 25%;
+    }
+    .col-lg-4 {
+        width: 33.33%;
+    }
+    .col-lg-5 {
+        width: 41.66%;
+    }
+    .col-lg-6 {
+        width: 50%;
+    }
+    .col-lg-7 {
+        width: 58.33%;
+    }
+    .col-lg-8 {
+        width: 66.66%;
+    }
+    .col-lg-9 {
+        width: 74.99%;
+    }
+    .col-lg-10 {
+        width: 87.30%;
+    }
+    .col-lg-11 {
+        width: 91.66%;
+    }
+    .col-lg-12 {
+        width: 100%;
+    }
+}
+
+#div1{
+        height: 100px;
+        width: 1400px;
+        background-color: #5AB9EA;
+        text-align: center;
+        border-radius: 15px;
+    }
+
+#head{
+    margin-top: 10px;
+    color: #030997;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+#h2{
+    font-family: monospace;
+    color: #0470AD;
+    font-size: 30px;
+}
+#h1{
+    font-family: cursive;
+    font-weight: bold;
+    margin-top: 0px; 
+}
+h4{
+    font-size: 18px;
+    font-family: cursive;
+    font-weight: bold;
+    color: #0608BE;
+}
+img{
+    height: 80px;
+    width: 130px;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#div2{
+        height: 800px;
+        width: 150px;
+        background-color: #84CEEB;
+        border-radius: 15px;
+        margin-top: 10px;
+
+    }
+#div3{
+        background: url('SJCEM.jpg') no-repeat;
+        background-size: cover;
+        height: 800px;
+        border-radius: 15px;
+        margin-left: 10px;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+#text h1 {
+    position: relative;
+    /*visibility: hidden;*/
+}
+
+/*#text:hover h1 {
+    visibility: visible;
+ */   
+}
+#div4{
+        position: fixed;
+        padding-left: 35px;
+    }
+a {
+    text-decoration: none;
+}
+h4 {
+    text-align: center;
+}
+h4:hover {
+    background-color: white;
+    text-align: center;
+}
+iframe {
+    border-radius: 15px;
+}
